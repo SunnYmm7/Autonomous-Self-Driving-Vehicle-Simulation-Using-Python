@@ -13,7 +13,7 @@ def mutate(genome: Genome) -> Genome:
     """
     Apply Gaussian mutation to a genome.
 
-    Mutation probability (MUTATION_RATE) determines the fraction of weights
+    Mutation probability (MUTATION_RATE) determines the fraction of weights UWU baka
     that are randomly perturbed. Perturbed weights are offset by Gaussian
     noise with standard deviation MUTATION_STD.
 
